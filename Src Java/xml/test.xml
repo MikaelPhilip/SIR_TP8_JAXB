@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enchereTypeImpl>
+    <prix>90000</prix>
+    <propriétaire>
+        <Nom>Flouze</Nom>
+        <Prenom>Max</Prenom>
+        <Login>MaxPower</Login>
+        <Mail>MaxPower@gfail.com</Mail>
+    </propriétaire>
+    <MeilleurPrix>100000</MeilleurPrix>
+    <Titre>Tableau</Titre>
+    <Descriptif>Carre Noir</Descriptif>
+</enchereTypeImpl>

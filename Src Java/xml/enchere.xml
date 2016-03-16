@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enchereTypeImpl>
+    <prix>900</prix>
+    <propriétaire>
+        <Nom>Asec</Nom>
+        <Prenom>Jean</Prenom>
+        <Login>Jarnak</Login>
+        <Mail>Jarmak@gfail.com</Mail>
+    </propriétaire>
+    <MeilleurPrix>1000</MeilleurPrix>
+    <Titre>Ming</Titre>
+    <Descriptif>Vase chinois</Descriptif>
+</enchereTypeImpl>

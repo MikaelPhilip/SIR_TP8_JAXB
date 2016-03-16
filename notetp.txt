@@ -1,0 +1,20 @@
+JAXB permet => 
+-->les transformations Transformations XML-> Objet (Java) :
+-le marshall (transformer un objet en XML)
+-l'unmarshall (transformer un document XML en Objet) 
+-la validation de conformité d'un document XML à un schéma.
+
+==============Transformer du xsd en Java=======================
+Lancer le jar qui va installer un dossier en local aller dans le bin de ce dossier avec un terminal et lancer les commandes.
+
+Une fois la commandes faite on ouvre les classe generér dans eclipse
+
+==============Transformer des objets Java en xml (en se bassant sur le java generé par le xml==============
+
+On inclus la bibliotheque dans le projet java
+
+On fait une classe qui va generer du xml à partir des objets java
+
+On créer des objet de dedans 
+
+On lance on a en retour le xml des objects qu'on à créer
